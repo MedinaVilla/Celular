@@ -3,6 +3,10 @@ package celular;
 /**
  * Programa que permite obtener los datos del celular ingresado
  * @author Medina Villalpando Josué de Jesús
+ * @version 1.0.0
+ * @date 03/09/17
+ * @param bateria Recibe la cantidad de batería que contiene el celular
+ * @param marca Recibe la marca del celular
  */
 public class Funcionamiento {
 
