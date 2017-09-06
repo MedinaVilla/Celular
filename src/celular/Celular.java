@@ -5,8 +5,8 @@ import java.util.Scanner;
 /**
 * Programa que permite mediante constructores, obtener datos del celular
  * @author Medina Villalpando Josue de Jesus 
- * @version 1.0.0
- * @date 03/09/17
+ * @version 1.0
+ * @since 03/09/17
  */
 public class Celular {
 
